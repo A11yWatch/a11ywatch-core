@@ -31,7 +31,7 @@
     "fastify": "^3.29.4",
     "fastq": "1.15.0",
     "graphql": "15.8.0",
-    "graphql-middleware": "6.1.33",
+    "graphql-middleware": "6.1.34",
     "graphql-rate-limit": "3.3.0",
     "graphql-redis-subscriptions": "2.6.0",
     "graphql-subscriptions": "2.0.0",
