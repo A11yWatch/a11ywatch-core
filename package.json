@@ -28,7 +28,7 @@
     "csv-writer": "^1.6.0",
     "date-fns": "2.29.3",
     "exceljs": "4.3.0",
-    "fastify": "^3.29.4",
+    "fastify": "^3.29.5",
     "fastq": "1.15.0",
     "graphql": "15.8.0",
     "graphql-middleware": "6.1.33",
